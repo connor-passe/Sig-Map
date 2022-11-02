@@ -6,7 +6,7 @@ Sig-Map is an iOS app developed as an MVP to explore the feasibility of performi
 
 This project would be considered a simple example of Surrogate Modeling. Surrogate Modeling uses Machine Learning (ML) and other techniques to approximate computationally expensive simulations / calculations with simpler / faster algorithms.
 
-A pair of articles written about the development of Sig-Map by the creator Connor Passe, can be found [here](https://medium.com/@quill.giro0l/developing-a-surrogate-modeling-based-signal-propagation-model-1010cf4f85e8) and [here](https://medium.com/@quill.giro0l/ios-on-device-signal-propagation-modeling-5987eae60aa2). 
+A pair of articles describing the development of Sig-Map can be found [here](https://medium.com/@quill.giro0l/developing-a-surrogate-modeling-based-signal-propagation-model-1010cf4f85e8) and [here](https://medium.com/@quill.giro0l/ios-on-device-signal-propagation-modeling-5987eae60aa2).  
 
 The example map data required to run the iOS app can be downloaded [here](https://drive.google.com/drive/folders/1CzM30kBMjmx7pSHBKRhcDSdEZj0B2_Uy?usp=share_link) and installed in the /TileElevationData folder.
 
