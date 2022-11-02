@@ -1,5 +1,5 @@
 # Overview
-Sig-Map is an iOS app developed as an MVP to explore the feasibility of performing signal propagation modeling on a mobile device. While signal propagation modeling is not a new field (it dates back to the 1950's), the concept of performing of doing so accurately and in a computationally-constrained environment is fairly novel. Most simulation packages are firmly focused on accuracy above all else and can only be run in a dedicated desktop environment. However, I was interested in developing an application that could do the following:
+Sig-Map is an iOS app developed as an MVP to explore the feasibility of performing signal propagation modeling on a mobile device. While signal propagation modeling is not a new field (it dates back to the 1950's), the concept of doing so accurately and in a computationally-constrained environment is fairly novel. Most simulation packages are firmly focused on accuracy above all else and can only be run in a dedicated desktop environment. I was interested in developing an application that could do the following:
 * Perform calculations on a mobile device
 * Handle a wide range of transmission frequencies and physical terrain
 * Balance accuracy and runtime
